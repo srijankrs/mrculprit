@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.db62923b.css",
-    "main.js": "/static/js/main.f7eee975.js",
-    "static/js/453.e401e4a8.chunk.js": "/static/js/453.e401e4a8.chunk.js",
-    "static/media/pouch-sealer-clip.jpg": "/static/media/pouch-sealer-clip.1afcc4b82ce436868144.jpg",
-    "static/media/soap-dispenser-brush.webp": "/static/media/soap-dispenser-brush.001aa9fbeeafdeec2645.webp",
-    "static/media/lighter.jpg": "/static/media/lighter.ff2b349887f91a98272b.jpg",
-    "static/media/waffle-maker.webp": "/static/media/waffle-maker.df012edf7b5f4449da2b.webp",
-    "static/media/index.cjs": "/static/media/index.671993152dc0f6e0b17a.cjs",
-    "static/media/self-sterring.webp": "/static/media/self-sterring.5fee91ec0b7c2b74731d.webp",
-    "static/media/oil-brush.webp": "/static/media/oil-brush.7929be8926bcc5e0d275.webp",
-    "static/media/coffee-frother.webp": "/static/media/coffee-frother.ce8d2144f892bc516d9a.webp",
-    "static/media/collapsable-funnel.webp": "/static/media/collapsable-funnel.d5ca74bf000cd57c9584.webp",
-    "index.html": "/index.html",
-    "main.db62923b.css.map": "/static/css/main.db62923b.css.map",
-    "main.f7eee975.js.map": "/static/js/main.f7eee975.js.map",
-    "453.e401e4a8.chunk.js.map": "/static/js/453.e401e4a8.chunk.js.map"
+    "main.css": "/mrculprit/static/css/main.db62923b.css",
+    "main.js": "/mrculprit/static/js/main.1c67dbd1.js",
+    "static/js/453.e401e4a8.chunk.js": "/mrculprit/static/js/453.e401e4a8.chunk.js",
+    "static/media/pouch-sealer-clip.jpg": "/mrculprit/static/media/pouch-sealer-clip.1afcc4b82ce436868144.jpg",
+    "static/media/soap-dispenser-brush.webp": "/mrculprit/static/media/soap-dispenser-brush.001aa9fbeeafdeec2645.webp",
+    "static/media/lighter.jpg": "/mrculprit/static/media/lighter.ff2b349887f91a98272b.jpg",
+    "static/media/waffle-maker.webp": "/mrculprit/static/media/waffle-maker.df012edf7b5f4449da2b.webp",
+    "static/media/index.cjs": "/mrculprit/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/self-sterring.webp": "/mrculprit/static/media/self-sterring.5fee91ec0b7c2b74731d.webp",
+    "static/media/oil-brush.webp": "/mrculprit/static/media/oil-brush.7929be8926bcc5e0d275.webp",
+    "static/media/coffee-frother.webp": "/mrculprit/static/media/coffee-frother.ce8d2144f892bc516d9a.webp",
+    "static/media/collapsable-funnel.webp": "/mrculprit/static/media/collapsable-funnel.d5ca74bf000cd57c9584.webp",
+    "index.html": "/mrculprit/index.html",
+    "main.db62923b.css.map": "/mrculprit/static/css/main.db62923b.css.map",
+    "main.1c67dbd1.js.map": "/mrculprit/static/js/main.1c67dbd1.js.map",
+    "453.e401e4a8.chunk.js.map": "/mrculprit/static/js/453.e401e4a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.f7eee975.js"
+    "static/js/main.1c67dbd1.js"
   ]
 }
