@@ -30,7 +30,7 @@ export const Items = [
         imageLink:'./images/self-sterring.webp'
     },
     {
-        label:"Waffle Maker",
+        label:"Mini Waffle Maker",
         link:"https://www.wishlink.com/share/mn4cb",
         imageLink:'./images/waffle-maker.webp'
     },
