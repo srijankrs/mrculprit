@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/mrculprit/static/css/main.db62923b.css",
-    "main.js": "/mrculprit/static/js/main.58bf7150.js",
+    "main.js": "/mrculprit/static/js/main.3313f3d8.js",
     "static/js/453.e401e4a8.chunk.js": "/mrculprit/static/js/453.e401e4a8.chunk.js",
+    "static/media/steelicecubes.jpg": "/mrculprit/static/media/steelicecubes.18e13340fbf5bf5cb82d.jpg",
     "static/media/pouch-sealer-clip.jpg": "/mrculprit/static/media/pouch-sealer-clip.1afcc4b82ce436868144.jpg",
     "static/media/soap-dispenser-brush.webp": "/mrculprit/static/media/soap-dispenser-brush.001aa9fbeeafdeec2645.webp",
     "static/media/lighter.jpg": "/mrculprit/static/media/lighter.ff2b349887f91a98272b.jpg",
@@ -14,11 +15,11 @@
     "static/media/collapsable-funnel.webp": "/mrculprit/static/media/collapsable-funnel.d5ca74bf000cd57c9584.webp",
     "index.html": "/mrculprit/index.html",
     "main.db62923b.css.map": "/mrculprit/static/css/main.db62923b.css.map",
-    "main.58bf7150.js.map": "/mrculprit/static/js/main.58bf7150.js.map",
+    "main.3313f3d8.js.map": "/mrculprit/static/js/main.3313f3d8.js.map",
     "453.e401e4a8.chunk.js.map": "/mrculprit/static/js/453.e401e4a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.58bf7150.js"
+    "static/js/main.3313f3d8.js"
   ]
 }
